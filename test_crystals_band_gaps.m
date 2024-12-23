@@ -9,7 +9,7 @@ N = 4
 Mesh = Initial_Mesh(N);
 
 % three different photonic crystals are provided with material = 0,1,2
-material = 1;
+material = 0;
 Mesh =  Material_mark(Mesh,material);
 
 % figure,  plot_material(Mesh)
