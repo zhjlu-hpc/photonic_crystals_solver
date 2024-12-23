@@ -8,7 +8,7 @@ N = 4
 
 Mesh = Initial_Mesh(N);
 
-% there different photonic crystals are provided with material = 0,1,2
+% three different photonic crystals are provided with material = 0,1,2
 material = 1;
 Mesh =  Material_mark(Mesh,material);
 
