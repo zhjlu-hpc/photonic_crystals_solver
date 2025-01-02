@@ -15,8 +15,6 @@ addpath IterILU_SAIT/
 
 addpath Material_mark
 
-addpath fig_plot/
-
 addpath Mesh/
 
 
